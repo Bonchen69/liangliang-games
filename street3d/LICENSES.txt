@@ -1,0 +1,7 @@
+亮亮街頭鬥牛3D — 素材來源與授權
+- three.js r170 (MIT) https://threejs.org — 已內嵌於 HTML，不用 CDN
+- Kenney "Mini Characters" 角色模型+動畫+colormap (CC0) https://kenney.nl/assets/mini-characters
+- ambientCG Fence006 / Leather026 / Bricks076C 1K-JPG (CC0) https://ambientcg.com
+- Poly Haven asphalt_02 1k 貼圖 (CC0) https://polyhaven.com/a/asphalt_02
+- Poly Haven HDRI kloofendal_48d_partly_cloudy_puresky (CC0) https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky
+- 塗鴉、球場線、UI、音效、角色名稱：程式原創生成
